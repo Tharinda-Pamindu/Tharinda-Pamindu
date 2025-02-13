@@ -12,7 +12,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,anaconda,flutter,dart,androidstudio,dotnet,mysql,postgresql,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,hibernate,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,anaconda,flutter,dart,androidstudio,dotnet,mysql,postgresql,mongodb,scss,saas,github,html,java,js,md,nextjs,nodejs,postman,py,react,redux,bootstrap,vscode,hibernate, &perline=14" />
   </a>
 </p>
 
