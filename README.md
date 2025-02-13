@@ -1,7 +1,5 @@
 <h2> Hello <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
-[![Tharinda-Pamindu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tharinda-Pamindu&theme=tokyonight)](https://git.io/praveenscience)
-
 | ![Tharinda-Pamindu's github stats](https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight) | ![Tharinda-Pamindu GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tharinda-Pamindu&theme=tokyonight) |
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharinda-Pamindu&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
