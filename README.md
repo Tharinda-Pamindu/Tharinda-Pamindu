@@ -1,4 +1,4 @@
-## Hi there 👋
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 
 [![Tharinda-Pamindu's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tharinda-Pamindu&theme=tokyonight)](https://git.io/praveenscience)
 
