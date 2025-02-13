@@ -1,4 +1,6 @@
-<h2> Hello <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
 
 ![Tharinda-Pamindu's github stats](https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight)
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight)
