@@ -18,12 +18,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,anaconda,flutter,dart,androidstudio,dotnet,mysql,postgresql,mongodb,scss,saas,github,html,java,js,md,nextjs,nodejs,postman,py,react,redux,bootstrap,vscode,hibernate,mern,spring,php,python,phpstorm,eclipse,maven,androidstudio,bitbucket,idea,webstorm&perline=14" />
-  </a>
-</p>
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
