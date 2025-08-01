@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=900&pause=1000&center=true&vCenter=true&width=450&lines=Undergraduate+%40Rajarata+University+of+Sri+Lanka;IT+student+%7C+FullStack+Developer)](https://git.io/typing-svg)
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=900&pause=1000&center=true&vCenter=true&width=450&lines=Undergraduate+%40Rajarata+University+of+Sri+Lanka;IT+student+%7C+FullStack+Developer" alt="Typing SVG" /></a>
 </p>
 
 ![Tharinda-Pamindu's github stats](https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight)
