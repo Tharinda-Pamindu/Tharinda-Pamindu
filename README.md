@@ -53,7 +53,8 @@
 <a href="https://www.instagram.com/thari_yaa__?igsh=OW1uYm13c21qdGJy&utm_source=qr" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
 <a href="https://codegenfam.blogspot.com/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
 <a href="https://www.thecn.com/TW960" target="blank"><img align="center" src="https://www.thecn.com/img/com/icon/home-cn-logo-s.png.w128h128.jpg" alt="thecn" height="50" width="50" /></a>  
-<a href="https://orcid.org/my-orcid?orcid=0009-0008-7298-4498" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="thecn" height="50" width="50" /></a>  
+<a href="https://orcid.org/my-orcid?orcid=0009-0008-7298-4498" target="blank"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="thecn" height="50" width="50" /></a> 
+<a href="buymeacoffee.com/tharindapamindu" target="blank"><img align="center" src="https://images.app.goo.gl/FDmsdDB6HxcbXG829" alt="thecn" height="50" width="50" /></a> 
 </p>
 
 <div align="center">
