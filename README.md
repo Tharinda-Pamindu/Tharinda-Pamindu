@@ -2,8 +2,7 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-##
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=900&pause=1000&width=450&lines=Undergraduate+%40Rajarata+University+of+Sri+Lanka;IT+student+%7C+FullStack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=900&pause=1000&center=true&vCenter=true&width=450&lines=Undergraduate+%40Rajarata+University+of+Sri+Lanka;IT+student+%7C+FullStack+Developer)](https://git.io/typing-svg)
 
 ![Tharinda-Pamindu's github stats](https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharinda-Pamindu&theme=tokyonight) 
