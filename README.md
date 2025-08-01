@@ -2,11 +2,13 @@
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>
 <hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tharinda Pamindu</h1>
+<h3 align="center">FullStack Developer | Java Developer | AI/ML Enthusiast</h3>
+
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=900&pause=1000&center=true&vCenter=true&width=450&lines=Undergraduate+%40Rajarata+University+of+Sri+Lanka;IT+student+%7C+FullStack+Developer" alt="Typing SVG" /></a>
 </p>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tharinda Pamindu</h1>
-<h3 align="center">FullStack Developer | Java Developer | AI/ML Enthusiast</h3>
+
 <p align="center">
 <a href="https://www.linkedin.com/in/aksia/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://www.facebook.com/akash.chowrasia.908/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="akash chowrasia" height="30" width="40" /></a>
