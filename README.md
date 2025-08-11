@@ -1,6 +1,6 @@
 <p align="center">
 <!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <img src="https://github.com/Tharinda-Pamindu/Tharinda-Pamindu/blob/main/my%20one.jpg" height="200">
+  <img src="https://github.com/Tharinda-Pamindu/Tharinda-Pamindu/blob/main/my%20one.jpg" height="500">
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Tharinda Pamindu</h1>
