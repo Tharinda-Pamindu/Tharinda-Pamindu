@@ -60,6 +60,6 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/codediaz/codediaz/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://github.com/Tharinda-Pamindu/Tharinda-Pamindu/blob/main/github-user-contribution.svg" />
   <br/>
 </div>
