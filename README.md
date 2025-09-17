@@ -24,7 +24,7 @@
 
 <br><hr><br>
 
-
+![Tharinda-Pamindu's github stats](https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharinda-Pamindu&theme=tokyonight) 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharinda-Pamindu&theme=tokyonight)
 
