@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Funny GIF"> <b><i>Stand your ground</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" alt="Funny GIF">
 </p>
 
-<br><hr><br>
+<br><hr>
 
 [//]: # (<p align="center">)
 
