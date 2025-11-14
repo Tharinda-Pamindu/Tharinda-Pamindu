@@ -109,3 +109,7 @@
   <img alt="snake eating my contributions" src="https://github.com/Tharinda-Pamindu/Tharinda-Pamindu/blob/main/github-user-contribution.svg" />
   <br/>
 </div>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
