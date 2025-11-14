@@ -71,6 +71,7 @@
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=Tharinda-Pamindu&theme=tokyonight&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
+<hr>
 
 <div id="user-content-toc">
   <ul align="center">
@@ -83,6 +84,7 @@
     <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,anaconda,flutter,dart,androidstudio,dotnet,mysql,postgresql,mongodb,scss,github,html,java,js,md,nextjs,nodejs,postman,react,redux,bootstrap,vscode,visualstudio,hibernate,spring,php,python,phpstorm,eclipse,maven,bitbucket,idea,webstorm,clion,githubactions,npm,opencv,pycharm,rider,&perline=14" alt="Technologies I Know" />
   </a>
 </p>
+<hr>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
