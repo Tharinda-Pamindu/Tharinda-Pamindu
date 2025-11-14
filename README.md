@@ -35,14 +35,10 @@
 [//]: # (</p>)
 
 <!--- stats & Trophy (start) -->
+<h1 align="center">Tharinda-Pamindu's github stats</h1>
 <p align="center">
   <!--- stats (start) -->
 <table align="center">
-<thead>
-    <tr>
-        <th colspan="2">Tharinda-Pamindu's github stats</th>
-    </tr>
-</thead>
 <tr border="none">
 <td width="50%" align="center">
 
