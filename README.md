@@ -46,7 +46,7 @@
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharinda-Pamindu&theme=tokyonight&hide_border=false" /> 
   <br><br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-contributor-stats.vercel.app/api?username=Tharinda-Pamindu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-contributor-stats.vercel.app/api?username=Tharinda-Pamindu&limit=8&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 
 </td>
