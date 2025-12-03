@@ -42,10 +42,10 @@
 <tr border="none">
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&theme=tokyonight&show_icons=true&count_private=true" />
-  <br></br>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharinda-Pamindu&theme=tokyonight&hide_border=false" /> 
-  <br><br>
+  <br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-contributor-stats.vercel.app/api?username=Tharinda-Pamindu&limit=8&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 
