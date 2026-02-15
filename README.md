@@ -112,6 +112,15 @@
   <a href="https://buymeacoffee.com/tharindapamindu" target="blank" style="display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy me a Coffee"/></a>
 </p>
 
+<div>
+  <table align="center">
+    <th>
+        <img src="https://komarev.com/ghpvc/?username=Tharinda-Pamindu&style=for-the-badge&color=blue" alt="Profile Views" />
+        <img src="https://img.shields.io/github/followers/Tharinda-Pamindu?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
+    </th>
+  </table>
+</div>
+
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://github.com/Tharinda-Pamindu/Tharinda-Pamindu/blob/main/github-user-contribution.svg" />
