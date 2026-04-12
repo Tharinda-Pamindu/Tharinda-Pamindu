@@ -116,7 +116,7 @@
 
 <div align="center">
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/Tharinda-Pamindu/Tharinda-Pamindu/blob/main/github-user-contribution.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tharinda-Pamindu/Tharinda-Pamindu/output/github-user-contribution.svg" />
   <br/>
 </div>
 
