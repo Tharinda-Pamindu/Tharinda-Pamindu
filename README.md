@@ -45,8 +45,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br><br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharinda-Pamindu&theme=tokyonight&hide_border=false" /> 
-  <br><br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-contributor-stats.vercel.app/api?username=Tharinda-Pamindu&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 
 
 </td>
@@ -63,12 +61,6 @@
   <th colspan="2">
     <img src="https://activity-graph.vercel.app/graph?username=Tharinda-Pamindu&theme=react-dark&hide_border=true&custom_title=Tharinda%20Pamindu's%20GitHub%20contribution%20graph" alt = "Tharinda's GitHub contribution graph"/>
   </th>
-</tr>
-
-<tr>
-<td colspan="2" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharinda-Pamindu&theme=tokyonight" alt="Tharinda-Pamindu's Profile Details"/>
-</td>
 </tr>
 </table>
 <!--- stats (end) -->
