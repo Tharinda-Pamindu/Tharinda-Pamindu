@@ -10,8 +10,8 @@
 
 <br/><br/>
 
-<!-- 🔦 JUTSU ARSENAL -->
-<img src="./assets/jutsu-stack.svg" alt="Jutsu arsenal: Java, Python, JavaScript, TypeScript, C++, React, Next.js, Redux, Spring Boot, Node.js, MySQL, PostgreSQL, MongoDB, Flutter, OpenCV, TensorFlow, Docker, Git, GitHub Actions and Postman" width="100%"/>
+<!-- 🔦 TECH ARSENAL -->
+<img src="./assets/tech-stack.svg" alt="Tech arsenal: Java, Python, JavaScript, TypeScript, C++, React, Next.js, Redux, Spring Boot, Node.js, MySQL, PostgreSQL, MongoDB, Flutter, OpenCV, TensorFlow, Docker, Git, GitHub Actions and Postman" width="100%"/>
 
 <br/><br/>
 
@@ -25,7 +25,7 @@
 ## 🍥 S-Rank Missions
 
 <table>
-<tr><th>Mission</th><th>What it is</th><th>Jutsu used</th></tr>
+<tr><th>Mission</th><th>What it is</th><th>Built with</th></tr>
 <tr><td><a href="https://github.com/Tharinda-Pamindu/E-Commerce-platform"><b>Book Shop</b></a></td><td>Full-stack book marketplace with authentication and book and category management</td><td><code>React</code> <code>Spring Boot</code></td></tr>
 <tr><td><a href="https://github.com/Tharinda-Pamindu/Plant-Growth-anaysis-measure-project"><b>Plant Growth Analysis</b></a></td><td>Measures and tracks plant growth from images with computer vision</td><td><code>OpenCV</code> <code>Jupyter</code></td></tr>
 <tr><td><a href="https://github.com/Tharinda-Pamindu/Facial-Emotion-Detection-System"><b>Facial Emotion Detection</b></a></td><td>Classifies facial expressions with a convolutional neural network</td><td><code>TensorFlow</code> <code>Keras</code> <code>OpenCV</code></td></tr>

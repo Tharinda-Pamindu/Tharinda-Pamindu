@@ -400,14 +400,14 @@ def build_way(st):
     b += (f'<g class="fu" style="{delay(1)}"><rect x="{x0}" y="410" width="640" height="74" rx="14" fill="{rgba(ORANGE, .06)}" stroke="{rgba(ORANGE, .28)}"/>'
           f'<rect x="{x0}" y="410" width="4" height="74" rx="2" fill="{ORANGE}"/>'
           + text(x0 + 24, 442, "“Stand your ground. Keep coding, keep growing.”", "sgm", 18, WHITE)
-          + text(x0 + 24, 466, f"NINDO · {st['public_repos']} REPOS · {langs} LANGUAGES · SINCE {st['since']}", "jb", 11, DIM, 1.6)
+          + text(x0 + 24, 466, f"MOTTO · {st['public_repos']} REPOS · {langs} LANGUAGES · SINCE {st['since']}", "jb", 11, DIM, 1.6)
           + shuriken(1208, 447, .55, ORANGE, "spin", 1.6) + "</g>")
     panel("ninja-way.svg", 1280, 520, "My ninja way",
           "A Java editor window showing Tharinda's daily loop (learn, build, improve) beside three things he builds: full-stack apps, computer-vision AI, and competitive-programming solutions.",
           b, edge=(ORANGE, RED))
 
 
-# ── 3 · jutsu arsenal ────────────────────────────────────────────────────────
+# ── 3 · tech arsenal ─────────────────────────────────────────────────────────
 def build_stack(st):
     chips = [
         [("openjdk", "Java", "#f89820"), ("python", "Python", None), ("javascript", "JavaScript", None), ("typescript", "TypeScript", None), ("cplusplus", "C++", None)],
@@ -433,9 +433,9 @@ def build_stack(st):
     b += shuriken(cx, cy, 1.25, "#fff6d8", "spin", 2.2, rgba(AMBER, .25))
     b += embers([(640, 300, 1.6, 0, 7), (820, 220, 1.2, 1.6, 7), (980, 330, 1.5, 3.1, 7), (720, 160, 1.1, 2.2, 7),
                  (1100, 260, 1.3, 4.4, 7), (560, 380, 1.4, 5.2, 7)], AMBER)
-    b += text(cx, 452, "CHAKRA CORE", "jbb", 11, DIM, 2.4, "middle")
+    b += text(cx, 452, "POWER CORE", "jbb", 11, DIM, 2.4, "middle")
 
-    b += f'<g class="fu" style="{delay(.15)}">' + label(462, 56, "// JUTSU ARSENAL", AMBER)
+    b += f'<g class="fu" style="{delay(.15)}">' + label(462, 56, "// TECH ARSENAL", AMBER)
     b += text(1256, 56, f"{core} CORE · {core + len(extra)}+ IN THE SCROLL", "jb", 11, DIM, 2, "end")
     b += text(462, 99, "Tools I build with", "sg", 30, WHITE) + "</g>"
     for r, row in enumerate(chips):
@@ -467,8 +467,8 @@ def build_stack(st):
 .beam{animation:flick 4.5s ease-in-out infinite}
 @keyframes flick{0%,100%{opacity:.55}18%{opacity:.8}30%{opacity:.45}52%{opacity:.85}70%{opacity:.6}}"""
     names = ", ".join(n for row in chips for _, n, _ in row)
-    panel("jutsu-stack.svg", 1280, 500, "Jutsu arsenal — Tharinda's tech stack",
-          f"A glowing chakra core casts a beam that reveals {core} technology chips: {names}; plus {', '.join(extra)}.",
+    panel("tech-stack.svg", 1280, 500, "Tech arsenal — Tharinda's tech stack",
+          f"A glowing power core casts a beam that reveals {core} technology chips: {names}; plus {', '.join(extra)}.",
           b, defs, css, edge=(AMBER, ORANGE))
 
 
@@ -476,7 +476,7 @@ def build_stack(st):
 def build_id(st):
     b = f'<g class="drop"><g class="sway">'
     b += f'<rect x="186" y="-10" width="28" height="124" fill="url(#strap)"/>'
-    b += text(0, 0, "RAJARATA · SHINOBI · TP · RAJARATA · SHINOBI", "jbb", 9, "#fff", 2, attrs=' opacity=".55" transform="translate(196 6) rotate(90)"')
+    b += text(0, 0, "RAJARATA · DEVELOPER · TP · RAJARATA · DEVELOPER", "jbb", 9, "#fff", 2, attrs=' opacity=".55" transform="translate(196 6) rotate(90)"')
     b += f'<rect x="178" y="100" width="44" height="22" rx="5" fill="url(#metal)"/><rect x="194" y="120" width="12" height="10" fill="#9aa3b5"/>'
     b += '<circle cx="200" cy="138" r="10" fill="none" stroke="#c3cad8" stroke-width="4"/>'
     b += '<rect x="58" y="164" width="300" height="440" rx="16" fill="#000" opacity=".45" filter="url(#soft)"/>'
@@ -492,7 +492,7 @@ def build_id(st):
     b += (f'<g transform="rotate(-12 306 258)"><circle cx="306" cy="258" r="25" fill="none" stroke="{RED}" stroke-width="2" opacity=".85"/>'
           + text(306, 251, "YEAR", "jbb", 9, RED, 1.5, "middle") + text(306, 272, "3", "sg", 19, RED, anchor="middle") + "</g>")
     b += text(200, 410, "Tharinda Pamindu", "sg", fit("Tharinda Pamindu", "sg", 260, 25), WHITE, anchor="middle")
-    b += text(200, 434, "FULL-STACK SHINOBI", "jbb", 11, ORANGE, 2, "middle")
+    b += text(200, 434, "FULL-STACK DEVELOPER", "jbb", 11, ORANGE, 2, "middle")
     b += f'<path d="M70 450h260" stroke="{LINE}"/>'
     fields = [("VILLAGE", "Mihinthale, LK", 70, 468), ("BASE", "Rajarata Univ.", 210, 468),
               ("SQUAD", "CodeGenFam", 70, 504), ("SINCE", str(st["since"]), 210, 504)]
@@ -535,10 +535,10 @@ def build_id(st):
               + f'<rect class="grow" x="600" y="{y - 6}" width="{w:.1f}" height="11" rx="5.5" fill="url(#barg)" style="{delay(1 + i * .1)}"/>'
               + text(818, y + 4, str(n), "jbb", 12, WHITE) + "</g>")
     b += text(x0 + 22, 528, "primary language of each original repository", "jb", 10, DIM, klass="fi", style=delay(1.6))
-    natures = [(ORANGE, "TAIJUTSU", "Java · Spring Boot · React"), (BLUE, "GENJUTSU", "Computer vision & CNNs"),
-               (AMBER, "NINJUTSU", "C++ · competitive programming")]
+    natures = [(ORANGE, "FULL-STACK", "Java · Spring Boot · React"), (BLUE, "AI / VISION", "Computer vision & CNNs"),
+               (AMBER, "PROBLEM SOLVING", "C++ · competitive programming")]
     b += f'<g class="fu" style="{delay(.9)}"><rect x="896" y="248" width="344" height="300" rx="14" fill="{CARD}" stroke="{LINE}"/>'
-    b += text(918, 280, "CHAKRA NATURE", "jb", 11, MUTED, 2)
+    b += text(918, 280, "SPECIALTIES", "jb", 11, MUTED, 2)
     for i, (c, k, v) in enumerate(natures):
         y = 326 + i * 64
         b += f'<circle cx="922" cy="{y - 4}" r="4" fill="{c}"/>' + text(934, y, k, "jbb", 10, c, 1.6) + text(918, y + 24, v, "sgm", 15, WHITE)
