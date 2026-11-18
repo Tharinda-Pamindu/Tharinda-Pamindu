@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="438" viewBox="0 0 1280 438" role="img" aria-labelledby="title desc">
+<title id="title">Tharinda Pamindu&#x27;s developer registration</title><desc id="desc">Third-year undergraduate at Rajarata University of Sri Lanka. Full-stack and Java developer, AI/ML and competitive programming enthusiast.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#172032"/><stop offset="1" stop-color="#0c111d"/></linearGradient>
+<linearGradient id="edge" x2="1" y2="1"><stop stop-color="#ff963b" stop-opacity=".65"/><stop offset=".5" stop-color="#29344b"/><stop offset="1" stop-color="#67c8ff" stop-opacity=".55"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#ff963b" stop-opacity=".18"/><stop offset="1" stop-color="#ff963b" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="13" cy="13" r="1" fill="#8291b0" opacity=".12"/></pattern>
+<style>
+.spin{animation:spin 24s linear infinite;transform-box:fill-box;transform-origin:center}
+.float{animation:float 7s ease-in-out infinite}
+.pulse{animation:pulse 3s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{50%{transform:translateY(-6px)}}
+@keyframes pulse{50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse{animation:none}}
+</style></defs>
+<rect x="1" y="1" width="1278" height="436" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1278" height="436" rx="24" fill="url(#dots)"/>
+<text x="466" y="58" fill="#ff963b" font-size="14" font-weight="600" font-family="Consolas,monospace">03 / DEVELOPER REGISTRATION</text><text x="466" y="104" fill="#eef2fa" font-size="34" font-weight="700" font-family="Segoe UI,Arial,sans-serif">The person behind the commits.</text><g class="float"><rect x="52" y="46" width="356" height="354" rx="16" fill="#141d2e" stroke="#2b354b"/><path d="M194 0v56h70V0" fill="none" stroke="#ff963b" stroke-width="18"/><rect x="178" y="64" width="104" height="12" rx="6" fill="#73829d" stroke="#73829d"/><circle cx="230" cy="170" r="60" fill="#242d40" stroke="#ff963b"/><text x="186" y="187" fill="#ff963b" font-size="48" font-weight="750" font-family="Segoe UI,Arial,sans-serif">TP</text><text x="89" y="276" fill="#eef2fa" font-size="25" font-weight="700" font-family="Segoe UI,Arial,sans-serif">THARINDA PAMINDU</text><text x="89" y="310" fill="#a1acc2" font-size="14" font-weight="600" font-family="Consolas,monospace">@Tharinda-Pamindu</text><text x="89" y="365" fill="#68deb2" font-size="14" font-weight="600" font-family="Consolas,monospace">SRI LANKA</text></g><text x="466" y="145" fill="#ff963b" font-size="14" font-weight="600" font-family="Consolas,monospace">EDUCATION</text><text x="466" y="174" fill="#eef2fa" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Third-year undergraduate</text><text x="466" y="200" fill="#a1acc2" font-size="19" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Rajarata University of Sri Lanka</text><text x="466" y="233" fill="#67c8ff" font-size="14" font-weight="600" font-family="Consolas,monospace">SPECIAL INTERESTS</text><text x="466" y="262" fill="#eef2fa" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Full-stack development &amp; Java</text><text x="466" y="288" fill="#a1acc2" font-size="19" font-weight="400" font-family="Segoe UI,Arial,sans-serif">AI/ML &amp; competitive programming</text><text x="466" y="321" fill="#68deb2" font-size="14" font-weight="600" font-family="Consolas,monospace">PERSONAL MOTTO</text><text x="466" y="350" fill="#eef2fa" font-size="23" font-weight="600" font-family="Segoe UI,Arial,sans-serif">Stand your ground.</text><text x="466" y="376" fill="#a1acc2" font-size="19" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Keep growing. Keep improving.</text><g transform="translate(1185 355) scale(1.2)"><g class="spin"><path d="M0-24 8-8 24 0 8 8 0 24-8 8-24 0-8-8Z" fill="none" stroke="#ff963b" stroke-width="2"/><circle r="5" fill="none" stroke="#ff963b" stroke-width="2"/></g></g>
+<rect x="1" y="1" width="1278" height="436" rx="24" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>

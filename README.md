@@ -1,117 +1,97 @@
-<p align="center">
-<!--   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/> -->
-  <img src="https://github.com/Tharinda-Pamindu/Tharinda-Pamindu/blob/main/photo.png" height="500" alt="Tharinda Pamindu">
-</p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Hi">, I'm Tharinda Pamindu</h1>
-<h3 align="center">Full-Stack Developer | Java Developer | AI/ML Enthusiast</h3>
+<div align="center">
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Bahnschrift&weight=900&pause=1000&center=true&vCenter=true&width=450&lines=Undergraduate+%40Rajarata+University+of+Sri+Lanka;IT+student+%7C+Full-Stack+Developer" alt="Typing SVG" /></a>
-</p>
+<img src="./assets/hero.svg" alt="Hi, I'm Tharinda Pamindu — Full-Stack Developer, Java Developer and AI/ML Enthusiast at Rajarata University of Sri Lanka" width="100%" />
 
-<p align="center">
-  <em>
-    This is ME, Tharinda Pamindu, a <b>Third year</b> undergraduate from <a href="https://www.rjt.ac.lk/"> <b>Rajarata University of Sri Lanka</b></a>. <br>
-    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px" alt="Developer"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px" alt="Designer">&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px" alt="Rocket">and 
-    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px" alt="Medal">&nbsp.
-  </em> 
-  <br>
-  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" alt="Funny GIF"> <b><i>Stand your ground</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" alt="Funny GIF">
-</p>
+<br /><br />
 
-<br><hr>
+<a href="https://github.com/Tharinda-Pamindu"><img src="https://img.shields.io/badge/GitHub-Tharinda--Pamindu-ff963b?style=for-the-badge&logo=github&logoColor=white" alt="Tharinda Pamindu on GitHub" /></a>
+<a href="https://www.linkedin.com/in/tharinda-wickramasinghe-67241534a/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-67c8ff?style=for-the-badge" alt="Connect on LinkedIn" /></a>
+<a href="https://codegenfam.blogspot.com/"><img src="https://img.shields.io/badge/Blog-CodeGenFam-68deb2?style=for-the-badge&logo=blogger&logoColor=white" alt="Read CodeGenFam" /></a>
 
-[//]: # (<p align="center">)
+<br /><br />
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight" alt="Tharinda-Pamindu's github stats"/>)
+<img src="./assets/ninja-way.svg" alt="My ninja way: full-stack development, AI/ML exploration, and problem solving" width="100%" />
 
-[//]: # (  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tharinda-Pamindu&theme=tokyonight" alt="Top Languages"/>)
-
-[//]: # (  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharinda-Pamindu&theme=tokyonight" alt="Tharinda-Pamindu's Profile Details"/>)
-
-[//]: # (</p>)
-
-<!--- stats & Trophy (start) -->
-<h1 align="center">Tharinda-Pamindu's github stats</h1>
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tharinda-Pamindu&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <br><br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Tharinda-Pamindu&theme=tokyonight&hide_border=false" /> 
-
-
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tharinda-Pamindu&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-
-  </td>
-</tr>
-
-<!-- Tharinda's GitHub contribution graph -->
-<tr>
-  <th colspan="2">
-    <img src="https://activity-graph.vercel.app/graph?username=Tharinda-Pamindu&theme=react-dark&hide_border=true&custom_title=Tharinda%20Pamindu's%20GitHub%20contribution%20graph" alt = "Tharinda's GitHub contribution graph"/>
-  </th>
-</tr>
-</table>
-<!--- stats (end) -->
-
-
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,cpp,css,docker,anaconda,flutter,dart,androidstudio,dotnet,mysql,postgresql,mongodb,scss,github,html,java,js,md,nextjs,nodejs,postman,react,redux,bootstrap,vscode,visualstudio,hibernate,spring,php,python,phpstorm,eclipse,maven,bitbucket,idea,webstorm,clion,githubactions,npm,opencv,pycharm,rider,&perline=14" alt="Technologies I Know" />
-  </a>
-</p>
-<hr>
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
 </div>
 
-<!--icons and links-->
-<p align="center">
-  <a href="https://www.linkedin.com/in/tharinda-wickramasinghe-67241534a/" target="blank" style="display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="https://www.instagram.com/thari_yaa__?igsh=OW1uYm13c21qdGJy&utm_source=qr" target="blank" style="display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-  <a href="https://codegenfam.blogspot.com/" target="blank" style="display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982196-562aea17-5532-4550-8c08-1c7cb994a541.png" alt="hashnode" height="50" width="50" /></a>
-  <a href="https://www.thecn.com/TW960" target="blank" style="display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><img align="center" src="https://www.thecn.com/img/com/icon/home-cn-logo-s.png.w128h128.jpg" alt="thecn" height="50" width="50" /></a>  
-  <a href="https://orcid.org/my-orcid?orcid=0009-0008-7298-4498" target="blank" style="display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><img align="center" src="https://orcid.org/assets/vectors/orcid.logo.svg" alt="orcid" height="50" width="50" /></a> <br><br>
-  <a href="https://buymeacoffee.com/tharindapamindu" target="blank" style="display: inline-block; transition: transform 0.3s ease-in-out;" onmouseover="this.style.transform='scale(1.1)'" onmouseout="this.style.transform='scale(1)'"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy me a Coffee"/></a>
-</p>
-
-<div>
-  <table align="center">
-    <th>
-        <img src="https://komarev.com/ghpvc/?username=Tharinda-Pamindu&style=for-the-badge&color=blue" alt="Profile Views" />
-        <img src="https://img.shields.io/github/followers/Tharinda-Pamindu?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-    </th>
-  </table>
-</div>
+I'm **Tharinda Pamindu**, a **third-year undergraduate** at [Rajarata University of Sri Lanka](https://www.rjt.ac.lk/). I'm a **Full-Stack Developer**, **Java Developer**, and **AI/ML enthusiast** with an interest in competitive programming. I enjoy building practical software, improving my skills, and finding new opportunities to grow.
 
 <div align="center">
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Tharinda-Pamindu/Tharinda-Pamindu/output/github-user-contribution.svg" />
-  <br/>
+
+<br />
+
+<img src="./assets/jutsu-stack.svg" alt="My tech stack: Java, JavaScript, Python, C, C++, Dart, PHP; React, Next.js, Redux, HTML, CSS, Sass, Bootstrap; Spring, Hibernate, Node.js, .NET, MySQL, PostgreSQL, MongoDB; Flutter, Android Studio, Anaconda, OpenCV; Git, GitHub, Docker, GitHub Actions, Maven, npm, Postman, Bitbucket, and development IDEs" width="100%" />
+
+<br /><br />
+
+<img src="./assets/ninja-id.svg" alt="Developer registration: Tharinda Pamindu, third-year undergraduate at Rajarata University of Sri Lanka. Motto: Stand your ground." width="100%" />
+
 </div>
 
+## S-Rank Missions
+
+A few projects from my pinned repositories.
+
+| Mission | What it does | Technologies |
+| :--- | :--- | :--- |
+| [**Book Shop**](https://github.com/Tharinda-Pamindu/E-Commerce-platform) | A full-stack book marketplace with authentication and book/category management. | React · Spring Boot |
+| [**Plant Growth Analysis**](https://github.com/Tharinda-Pamindu/Plant-Growth-anaysis-measure-project) | Uses computer vision to measure and track plant growth from images. | Computer vision · Jupyter Notebook |
+| [**Personal Organizer**](https://github.com/Tharinda-Pamindu/PersonalOrganizer) | A desktop application for managing finances and tasks. | C++/CLI · Windows Forms |
+| [**Sinha Shakthi**](https://github.com/Tharinda-Pamindu/Sinha-Shakthi-Disaster-Center-finder) | Helps people locate disaster centers with geolocation and interactive maps. | TypeScript · Google Maps · PostgreSQL |
+| [**Facial Emotion Detection**](https://github.com/Tharinda-Pamindu/Facial-Emotion-Detection-System) | Classifies facial expressions using a convolutional neural network. | TensorFlow / Keras · OpenCV |
+| [**Vocably**](https://github.com/Tharinda-Pamindu/Vocably) | An Android vocabulary notebook with AI-assisted definitions and offline storage. | Java · Gemini · Room |
+
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+  <a href="https://github.com/Tharinda-Pamindu?tab=repositories"><b>Explore all my repositories →</b></a>
 </p>
+
+## Mission Dashboard
+
+<p align="center">
+  <a href="https://github.com/Tharinda-Pamindu"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tharinda-Pamindu&theme=tokyonight" alt="Tharinda Pamindu's GitHub contribution summary" width="100%" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Tharinda-Pamindu&theme=tokyonight" alt="Tharinda Pamindu's public GitHub statistics" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Tharinda-Pamindu&theme=tokyonight" alt="Languages used across Tharinda Pamindu's repositories" width="48%" />
+</p>
+
+<p align="center"><a href="https://github.com/Tharinda-Pamindu?tab=overview">View activity on GitHub</a></p>
+
+## My Contribution Village
+
+Every commit is another step forward.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tharinda-Pamindu/Tharinda-Pamindu/output/github-user-contribution.svg" alt="Animated snake tracing Tharinda Pamindu's GitHub contributions" width="100%" />
+</p>
+
+<div align="center">
+
+<br />
+
+<img src="./assets/connect.svg" alt="Join the squad — let's build something meaningful" width="100%" />
+
+<br /><br />
+
+<a href="https://github.com/Tharinda-Pamindu"><img src="https://img.shields.io/badge/GitHub-ff963b?style=for-the-badge&logo=github&logoColor=101725" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/tharinda-wickramasinghe-67241534a/"><img src="https://img.shields.io/badge/LinkedIn-67c8ff?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/thari_yaa__/"><img src="https://img.shields.io/badge/Instagram-c29bff?style=for-the-badge&logo=instagram&logoColor=101725" alt="Instagram" /></a>
+<a href="https://codegenfam.blogspot.com/"><img src="https://img.shields.io/badge/CodeGenFam-ff963b?style=for-the-badge&logo=blogger&logoColor=101725" alt="CodeGenFam blog" /></a>
+<a href="https://www.thecn.com/TW960"><img src="https://img.shields.io/badge/CourseNetworking-67c8ff?style=for-the-badge" alt="CourseNetworking profile" /></a>
+<a href="https://orcid.org/0009-0008-7298-4498"><img src="https://img.shields.io/badge/ORCID-68deb2?style=for-the-badge&logo=orcid&logoColor=101725" alt="ORCID: 0009-0008-7298-4498" /></a>
+
+<br /><br />
+
+<a href="https://buymeacoffee.com/tharindapamindu"><img src="https://img.shields.io/badge/Buy_me_a_coffee-ffca68?style=for-the-badge&logo=buymeacoffee&logoColor=101725" alt="Support Tharinda Pamindu on Buy Me a Coffee" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=Tharinda-Pamindu&style=for-the-badge&color=ff963b&label=VISITORS" alt="Profile view counter" />
+<a href="https://github.com/Tharinda-Pamindu?tab=followers"><img src="https://img.shields.io/github/followers/Tharinda-Pamindu?label=Followers&style=for-the-badge&color=67c8ff" alt="GitHub followers" /></a>
+
+<br /><br />
+
+**Stand your ground. Keep coding. Keep growing.**
+
+</div>

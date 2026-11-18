@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="258" viewBox="0 0 1280 258" role="img" aria-labelledby="title desc">
+<title id="title">Let&#x27;s connect with Tharinda Pamindu</title><desc id="desc">Connect, exchange ideas, and keep learning together.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#172032"/><stop offset="1" stop-color="#0c111d"/></linearGradient>
+<linearGradient id="edge" x2="1" y2="1"><stop stop-color="#ff963b" stop-opacity=".65"/><stop offset=".5" stop-color="#29344b"/><stop offset="1" stop-color="#67c8ff" stop-opacity=".55"/></linearGradient>
+<radialGradient id="aura"><stop stop-color="#ff963b" stop-opacity=".18"/><stop offset="1" stop-color="#ff963b" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="13" cy="13" r="1" fill="#8291b0" opacity=".12"/></pattern>
+<style>
+.spin{animation:spin 24s linear infinite;transform-box:fill-box;transform-origin:center}
+.float{animation:float 7s ease-in-out infinite}
+.pulse{animation:pulse 3s ease-in-out infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes float{50%{transform:translateY(-6px)}}
+@keyframes pulse{50%{opacity:.35}}
+@media(prefers-reduced-motion:reduce){.spin,.float,.pulse{animation:none}}
+</style></defs>
+<rect x="1" y="1" width="1278" height="256" rx="24" fill="url(#bg)"/>
+<rect x="1" y="1" width="1278" height="256" rx="24" fill="url(#dots)"/>
+<text x="52" y="55" fill="#ff963b" font-size="14" font-weight="600" font-family="Consolas,monospace">04 / JOIN THE SQUAD</text><text x="52" y="112" fill="#eef2fa" font-size="42" font-weight="700" font-family="Segoe UI,Arial,sans-serif">Let&#x27;s build something meaningful.</text><text x="52" y="157" fill="#a1acc2" font-size="23" font-weight="400" font-family="Segoe UI,Arial,sans-serif">Connect, exchange ideas, and keep learning together.</text><text x="52" y="214" fill="#68deb2" font-size="14" font-weight="600" font-family="Consolas,monospace">CODE  /  COLLABORATE  /  GROW</text><g transform="translate(1120 132)"><circle r="75" fill="none" stroke="#344159"/><circle r="55" fill="none" stroke="#67c8ff" stroke-dasharray="5 10"/><g transform="translate(0 0) scale(1.4)"><g class="spin"><path d="M0-24 8-8 24 0 8 8 0 24-8 8-24 0-8-8Z" fill="none" stroke="#ff963b" stroke-width="2"/><circle r="5" fill="none" stroke="#ff963b" stroke-width="2"/></g></g></g>
+<rect x="1" y="1" width="1278" height="256" rx="24" fill="none" stroke="url(#edge)" stroke-width="1.5"/>
+</svg>
