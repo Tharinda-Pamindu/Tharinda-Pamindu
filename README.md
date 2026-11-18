@@ -1,22 +1,22 @@
 <div align="center">
 
 <!-- 🎬 HERO -->
-<img src="./assets/hero.svg" alt="Hi, I'm Tharinda Pamindu — Full-Stack Developer, Java Developer, AI/ML Developer and competitive programmer at Rajarata University of Sri Lanka" width="100%"/>
+<img src="./assets/hero.svg?v=2" alt="Hi, I'm Tharinda Pamindu — Full-Stack Developer, Java Developer, AI/ML Developer and competitive programmer at Rajarata University of Sri Lanka" width="100%"/>
 
 <br/><br/>
 
 <!-- 🍥 MY NINJA WAY -->
-<img src="./assets/ninja-way.svg" alt="My ninja way: full-stack apps end to end, AI that can see, and problem solving as a habit" width="100%"/>
+<img src="./assets/ninja-way.svg?v=2" alt="My ninja way: full-stack apps end to end, AI that can see, and problem solving as a habit" width="100%"/>
 
 <br/><br/>
 
 <!-- 🔦 TECH ARSENAL -->
-<img src="./assets/tech-stack.svg" alt="Tech arsenal: Java, Python, JavaScript, TypeScript, C++, React, Next.js, Redux, Spring Boot, Node.js, MySQL, PostgreSQL, MongoDB, Flutter, OpenCV, TensorFlow, Docker, Git, GitHub Actions and Postman" width="100%"/>
+<img src="./assets/tech-stack.svg?v=2" alt="Tech arsenal: Java, Python, JavaScript, TypeScript, C++, React, Next.js, Redux, Spring Boot, Node.js, MySQL, PostgreSQL, MongoDB, Flutter, OpenCV, TensorFlow, Docker, Git, GitHub Actions and Postman" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 NINJA REGISTRATION + MISSION DASHBOARD -->
-<img src="./assets/ninja-id.svg" alt="Ninja registration card for Tharinda Pamindu beside a dashboard of GitHub stats and top languages" width="100%"/>
+<img src="./assets/ninja-id.svg?v=2" alt="Ninja registration card for Tharinda Pamindu beside a dashboard of GitHub stats and top languages" width="100%"/>
 
 <br/><br/>
 
@@ -40,7 +40,7 @@
 
 <br/><br/>
 
-<img src="./assets/shuriken.svg" alt="" width="64"/>
+<img src="./assets/shuriken.svg?v=2" alt="" width="64"/>
 
 ### 🌃 My contribution village
 
@@ -53,7 +53,7 @@
 <br/><br/>
 
 <!-- 💌 JOIN THE SQUAD -->
-<img src="./assets/connect.svg" alt="Let's build something meaningful — connect with Tharinda Pamindu" width="100%"/>
+<img src="./assets/connect.svg?v=2" alt="Let's build something meaningful — connect with Tharinda Pamindu" width="100%"/>
 
 <a href="https://github.com/Tharinda-Pamindu"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
 <a href="https://www.linkedin.com/in/tharinda-wickramasinghe-67241534a/"><img src="https://img.shields.io/badge/LinkedIn-4ea8ff?style=for-the-badge&logo=linkedin&logoColor=0b0d13" alt="LinkedIn"/></a>
@@ -69,7 +69,7 @@
 
 <br/>
 
-<img src="./assets/shuriken.svg" alt="" width="44"/>
+<img src="./assets/shuriken.svg?v=2" alt="" width="44"/>
 
 **Stand your ground — keep coding, keep growing.** 🍥
 
