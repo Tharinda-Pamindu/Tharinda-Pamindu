@@ -1,0 +1,44 @@
+name: Refresh profile 🌃
+
+on:
+  schedule:
+    - cron: "0 18 * * *"   # daily
+  workflow_dispatch:        # run manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v5
+
+      - name: Build 3D contribution village
+        uses: yoshi389111/github-profile-3d-contrib@latest
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild panels with fresh GitHub stats
+        run: |
+          pip install pillow fonttools
+          python scripts/build_profile.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A profile-3d-contrib assets scripts/profile-data.json
+          if git commit -m "Refresh contribution village and profile stats"; then
+            git push
+          fi
