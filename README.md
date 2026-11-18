@@ -46,8 +46,6 @@
 
 *Every commit raises another building — rebuilt automatically every day.*
 
-<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D city built from Tharinda Pamindu's GitHub contributions" width="100%"/>
-
 <img src="https://raw.githubusercontent.com/Tharinda-Pamindu/Tharinda-Pamindu/output/github-user-contribution.svg" alt="Snake eating Tharinda Pamindu's GitHub contribution grid" width="100%"/>
 
 <br/><br/>
